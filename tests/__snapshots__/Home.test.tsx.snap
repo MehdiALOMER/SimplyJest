@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Home Screen renders correctly 1`] = `
+<View>
+  <Text>
+    Welcome to the Unit Test Demo!
+  </Text>
+</View>
+`;
