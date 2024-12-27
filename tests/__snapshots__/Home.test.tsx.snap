@@ -3,7 +3,7 @@
 exports[`Home Screen renders correctly 1`] = `
 <View>
   <Text>
-    Welcome to the Unit Test Demo!
+    Welcome to the Updated Unit Test Demo1!
   </Text>
 </View>
 `;

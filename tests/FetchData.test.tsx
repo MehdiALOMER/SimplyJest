@@ -33,3 +33,5 @@ describe('FetchData Screen', () => {
         expect(dataText.props.children).toBe('Mocked Title');
     });
 });
+
+// npx jest tests/FetchData.test.tsx

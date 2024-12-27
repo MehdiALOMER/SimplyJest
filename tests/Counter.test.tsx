@@ -32,4 +32,4 @@ describe('Counter Screen', () => {
     });
 });
 
-// 
+// npx jest tests/Counter.test.tsx
